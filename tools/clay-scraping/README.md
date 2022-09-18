@@ -1,2 +1,0 @@
-# Clay Scrapers
-
