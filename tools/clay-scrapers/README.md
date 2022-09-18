@@ -1,5 +1,7 @@
 # Clay Scraping
 
+{% embed url="https://www.loom.com/share/e4e8cb62178748829bab9e39faba2373" %}
+
 Clay has two types of web scrapers, `Get Data from Page` & `Scrape Website.` Scrape Website allows you to scrape information like emails, phone numbers, and keywords from any webpage. Whereas Get Data From Page can scrape any kind of data from websites that have recipes made. You can use the [Clay Extension](https://chrome.google.com/webstore/detail/clay-for-chrome/acmfklpkefjlldbkdgmjoiknfgidadoh) to create recipes on any website, or you could ask clay to map the page [here](https://tally.so/r/w5Bab6).&#x20;
 
 {% hint style="info" %}
