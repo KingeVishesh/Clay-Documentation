@@ -1,5 +1,7 @@
 # Scrape Website
 
+{% embed url="https://www.loom.com/share/385424b8ed7f4780a95e970208902294" %}
+
 ## Step 1
 
 Open Clay's enrichments Click Actions and select Clay then click Scrape Website This step allows you to scrape information like emails, phone numbers, and keywords from a webpage
