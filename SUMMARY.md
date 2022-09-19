@@ -179,4 +179,6 @@
     * [Normalize a URL](tools/clay/normalize-a-url.md)
     * [Order a list](tools/clay/order-a-list.md)
     * [Format Date/Time](tools/clay-formatters/format-date-time.md)
+* [Errors](errors/README.md)
+  * [Page 2](errors/page-2.md)
 * [Clay Extension](clay-extension.md)
