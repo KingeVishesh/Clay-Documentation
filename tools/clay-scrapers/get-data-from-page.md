@@ -2,7 +2,7 @@
 
 {% embed url="https://www.loom.com/share/94fdf96be77f4449ba15c7efea64816b" %}
 
-Get Data from Page allows you to scrape structured data from any website. To add Get Data From Page, click on Add Integrations and select “Get Data From Page”.
+Get Data from Page allows you to scrape structured data from any website. To add Get Data From Page, click on Add Integrations and select `Get Data From Page`.
 
 * **URL -** The webpage you want to scrape.&#x20;
 * **Delay Time -** Time to wait before scraping the page. Having a higher delay time will increase how much time it takes to process all rows.
