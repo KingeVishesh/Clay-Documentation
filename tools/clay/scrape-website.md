@@ -2,14 +2,8 @@
 
 {% embed url="https://www.loom.com/share/385424b8ed7f4780a95e970208902294" %}
 
-## Step 1
+Scrape Website is used for getting email, social links and phone numbers from a website. To Scrape Websites, click on Add Integrations and select “Scrape Website”.
 
-Open Clay's enrichments Click Actions and select Clay then click Scrape Website This step allows you to scrape information like emails, phone numbers, and keywords from a webpage
+* **URL -** The website you want to scrape.
 
-## Step 2
-
-Add your inputs Add the Domain under the Website URL section The input allows you to scrape company information.
-
-## Step 3&#x20;
-
-Extract data Click the expand button from the Scrape Website column
+After running, It will result in a lot of fields like the body and all the links on the page. You can then map them to other fields. You can scrape any website using the tool without having to worry about mapping the fields like in "Get Data From Page".
