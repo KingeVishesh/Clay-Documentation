@@ -1,6 +1,12 @@
 # Table of contents
 
-* [🪖 Clay Help Center](README.md)
+## Start Here
+
+* [👋 Getting started](README.md)
+* [⚡ Build your first table in 2 minutes](start-here/build-your-first-table-in-2-minutes.md)
+
+***
+
 * [General](general/README.md)
   * [How Clay work](general/how-clay-work.md)
   * [Pricing Parameters](general/pricing-parameters.md)
