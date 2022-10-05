@@ -6,10 +6,10 @@
 
 Create a source using <mark style="color:red;">`Import CSV`</mark>.&#x20;
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/225 (2).gif" alt=""><figcaption></figcaption></figure>
 
 ### Step 2 - Importing CSV
 
 Upload your <mark style="color:red;">`CSV`</mark> file and click <mark style="color:red;">`Continue`</mark>. Select if you want to add the data to your existing table or new table. Click <mark style="color:red;">`Go to created`</mark> table to open.
 
-![](broken-reference)
+![](../.gitbook/assets/226.gif)

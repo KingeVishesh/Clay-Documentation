@@ -187,4 +187,7 @@
     * [Format Date/Time](tools/clay-formatters/format-date-time.md)
 * [Errors](errors/README.md)
   * [Page 2](errors/page-2.md)
-* [Clay Extension](clay-extension.md)
+* [Clay Extension](clay-extension/README.md)
+  * [Export an existing list](clay-extension/export-an-existing-list.md)
+  * [Map your own list](clay-extension/map-your-own-list.md)
+  * [Map and pull your own page data into Clay](clay-extension/map-and-pull-your-own-page-data-into-clay.md)
