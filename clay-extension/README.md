@@ -23,3 +23,15 @@ To install the build and add it to your browser:
 ![](../.gitbook/assets/60f5afb49b298e7427cda3b5\_73288c371f9e326deaa8982638251db9.gif)
 
 ## Guides to using the Chrome Extension
+
+{% content-ref url="export-an-existing-list.md" %}
+[export-an-existing-list.md](export-an-existing-list.md)
+{% endcontent-ref %}
+
+{% content-ref url="map-your-own-list.md" %}
+[map-your-own-list.md](map-your-own-list.md)
+{% endcontent-ref %}
+
+{% content-ref url="map-and-pull-your-own-page-data-into-clay.md" %}
+[map-and-pull-your-own-page-data-into-clay.md](map-and-pull-your-own-page-data-into-clay.md)
+{% endcontent-ref %}
