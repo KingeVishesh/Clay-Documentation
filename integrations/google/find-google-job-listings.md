@@ -2,6 +2,12 @@
 
 {% embed url="https://www.loom.com/share/5fb000ecd39745ff89639d259ec50b19" %}
 
-With Find Google Job Listings integration you can take a domain name and keywords to find google job listings of a particular company.&#x20;
+You may use Google jobs to see how many jobs a certain company is hiring for.&#x20;
 
-To get started, add the integration on a table and map the domain name and keywords, and then save changes. Once you run the integration column it will take some time to get the data. Then you can access all the information about multiple job listings and pull any data you want.
+Insert the company domain first, and then see how many openings are available for the job you've listed by inserting the job title you want information on.&#x20;
+
+Google jobs is also used for
+
+* email personalization&#x20;
+* qualifying leads before you start reaching out.&#x20;
+* any number of jobs that might fit your criteria.
