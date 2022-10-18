@@ -161,8 +161,6 @@
     * [Validate Email](integrations/zero-bounce/validate-email.md)
 * [Formulas](formulas/README.md)
   * [Page 5](formulas/page-5.md)
-* [Functions](functions/README.md)
-  * [Page 4](functions/page-4.md)
 * [Tools](tools/README.md)
   * [HTTP API](tools/clay/http-api.md)
   * [Lookup Record in Other Table (Clay 2.0)](tools/clay/lookup-record-in-other-table-clay-2.0.md)
