@@ -1,15 +1,7 @@
 # Hubspot Contacts
 
-{% embed url="https://www.loom.com/share/9894ffc438ed4eac86da6126345d1f19" %}
+{% embed url="https://www.loom.com/share/c6071daf7de54c56a0c45b773f14ca88" %}
 
-### Step 1 - Create a source
+With Hubspot Contacts integration you can OAuth your account and pull as many contacts as you like to get data points like LinkedIn, phone number, HQ location, and more about the company.
 
-Create a <mark style="color:red;">`HubSpot`</mark> source and authenticate your account. Set your data limit and click Continue. Select if you want to add the data to your existing table or new table.&#x20;
-
-![](../.gitbook/assets/231.gif)
-
-### Step 2 - Extract data
-
-Click the expand button to extract additional information. The `Hs Object Id` from this source's output can also be used as input to the HubSpot 'Lookup Contact' integration to retrieve additional contact properties.
-
-<figure><img src="../.gitbook/assets/232.gif" alt=""><figcaption></figcaption></figure>
+To get started, OAuth your account and add the maximum number of contacts you want to pull.  Once you run the column it will continuously live source the information . Then you can access all the information about the company and pull any data that you want.
