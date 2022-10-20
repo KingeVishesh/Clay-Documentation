@@ -175,6 +175,7 @@
     * [Get Sitemap URLs for a Company Website](tools/clay/get-sitemap-urls-for-a-company-website.md)
     * [Map Job Title to Persona](tools/clay/map-job-title-to-persona.md)
     * [Find Work Email](tools/clay-enrichments/find-work-email.md)
+    * [Find Company](tools/clay-enrichment/find-company.md)
   * [Clay Formatting & Extractions](tools/clay-formatting-and-extractions/README.md)
     * [Categorize Items Based On Keywords](tools/clay/categorize-items-based-on-keywords.md)
     * [Extract Company Domain from Email Address](tools/clay/extract-company-domain-from-email-address.md)
