@@ -3,7 +3,7 @@
 ## Start Here
 
 * [👋 Getting started](README.md)
-* [⚡ Build your first table in 2 minutes](start-here/build-your-first-table-in-2-minutes.md)
+* [⚡ Build your first lead list in 3 minutes](start-here/build-your-first-lead-list-in-3-minutes.md)
 
 ***
 

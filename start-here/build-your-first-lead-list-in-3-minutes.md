@@ -1,6 +1,6 @@
-# ⚡ Build your first table in 2 minutes
+# ⚡ Build your first lead list in 3 minutes
 
-{% embed url="https://www.loom.com/share/e64079b29fac406985bf2ab083ab274c?_hideinfo=true" %}
+{% embed url="https://www.loom.com/share/58a9b1406b7749939ceded52b3fc98b4" %}
 
 ## Step-by-step guide 👇
 
