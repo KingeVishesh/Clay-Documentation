@@ -1,6 +1,6 @@
 # Find Google Job Listings
 
-{% embed url="https://www.loom.com/share/0fc5a41ec7294902af0fe2b240b5e64e" %}
+{% embed url="https://www.loom.com/share/5fb000ecd39745ff89639d259ec50b19" %}
 
 With Find Google Job Listings integration you can take a domain name and keywords to find google job listings of a particular company.&#x20;
 
