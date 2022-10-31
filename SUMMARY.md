@@ -16,6 +16,7 @@
   * [Can I use my own API key?](general/can-i-use-my-own-api-key.md)
   * [Does Clay provide support?](general/does-clay-provide-support.md)
   * [What can't Clay do?](general/what-cant-clay-do.md)
+* [Clay Pricing](clay-pricing.md)
 * [Sources](sources/README.md)
   * [Import CSV](sources/import-csv.md)
   * [Webhook](sources/webhook.md)
@@ -186,5 +187,4 @@
   * [Export an existing list](clay-chrome-extension/export-an-existing-list.md)
   * [Map your own list](clay-chrome-extension/map-your-own-list.md)
   * [Map and pull your own page data into Clay](clay-chrome-extension/map-and-pull-your-own-page-data-into-clay.md)
-* [Clay Pricing FAQ](clay-pricing-faq.md)
 * [Formulas](formulas.md)

@@ -46,7 +46,7 @@ In this example, we're sending the attribute of **status** equalling **complete*
 
 You can also add custom attributes based on the data enriched on your table. In the example below, we added an attribute for "fullname" that took the corresponding record for each row.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 Custom attributes are treated like any other JSON data and get quotations around the string of text.
 
