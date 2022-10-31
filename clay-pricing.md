@@ -7,7 +7,7 @@ description: >-
 
 # Clay Pricing
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -16,6 +16,8 @@ description: >-
 Clay is reshaping the data provider business model by bundling together 25+ different providers into a simple credit system for a fraction of the cost.&#x20;
 
 Each month you're given a certain amount of credits depending on your plan (Basic, Explorer, or Pro). Every time an enrichment provider is called, it counts as 1 credit. For example, if your table includes 3 enrichment columns, then every row added will run 3 credits.
+
+Want to learn more? Check it out here: [https://www.loom.com/share/0acccd32c4ce44fabc0ab8f88c9144d4](https://www.loom.com/share/0acccd32c4ce44fabc0ab8f88c9144d4)
 
 </details>
 

@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# General
+# FAQ
 
 What is Clay?
 
