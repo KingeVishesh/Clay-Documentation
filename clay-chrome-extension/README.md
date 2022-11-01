@@ -1,4 +1,9 @@
-# Clay Extension
+---
+cover: ../.gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black (2).png
+coverY: 0
+---
+
+# Clay Chrome Extension
 
 {% embed url="https://www.loom.com/share/0e9b407ab01d45acbd3dc23942b6f2f4" %}
 

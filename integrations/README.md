@@ -1,4 +1,12 @@
+---
+description: Learn more about our built in integrations!
+cover: ../.gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black (2).png
+coverY: 0
+---
+
 # Integrations
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="airtable/">airtable</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 {% content-ref url="airtable/" %}
 [airtable](airtable/)
@@ -67,3 +75,4 @@
 {% content-ref url="instagram/" %}
 [instagram](instagram/)
 {% endcontent-ref %}
+
