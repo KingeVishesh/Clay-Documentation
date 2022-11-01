@@ -174,12 +174,9 @@
     * [Find Response](clays-magic/integrations/typeform/find-response.md)
   * [Zero Bounce](clays-magic/integrations/zero-bounce/README.md)
     * [Validate Email](clays-magic/integrations/zero-bounce/validate-email.md)
-
-***
-
-* [Clay Chrome Extension](chrome-extension/README.md)
-  * [Export an existing list](chrome-extension/export-an-existing-list.md)
-  * [Map your own list](chrome-extension/map-your-own-list.md)
-  * [Map and pull your own page data into Clay](chrome-extension/map-and-pull-your-own-page-data-into-clay.md)
-* [Formulas](formulas.md)
+* [Clay Chrome Extension](clays-magic/chrome-extension/README.md)
+  * [Export an existing list](clays-magic/chrome-extension/export-an-existing-list.md)
+  * [Map your own list](clays-magic/chrome-extension/map-your-own-list.md)
+  * [Map and pull your own page data into Clay](clays-magic/chrome-extension/map-and-pull-your-own-page-data-into-clay.md)
+* [Formulas](clays-magic/formulas.md)
 * [Clay Community](http://clay.com/slack)

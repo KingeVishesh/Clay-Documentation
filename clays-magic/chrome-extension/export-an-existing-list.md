@@ -11,4 +11,4 @@ Pages we suggest testing out include LinkedIn People or Jobs Search, Google Jobs
 3. **Capture the full data.** Scroll to see the existing auto-detected list of brands
 4. **Export your list. Copy to Clipboard** or **Export as CSV**
 
-<figure><img src="../.gitbook/assets/3d294f98862f9862d4479e72d0f8deaf (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3d294f98862f9862d4479e72d0f8deaf (2).gif" alt=""><figcaption></figcaption></figure>

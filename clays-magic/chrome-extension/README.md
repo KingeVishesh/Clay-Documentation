@@ -1,5 +1,7 @@
 ---
-cover: ../.gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black (2).png
+cover: >-
+  ../../.gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black
+  (2).png
 coverY: 0
 ---
 
@@ -25,7 +27,7 @@ To install the build and add it to your browser:
 
 &#x20;  2\. **Pin the extension to your extension toolbar**
 
-![](../.gitbook/assets/60f5afb49b298e7427cda3b5\_73288c371f9e326deaa8982638251db9.gif)
+![](../../.gitbook/assets/60f5afb49b298e7427cda3b5\_73288c371f9e326deaa8982638251db9.gif)
 
 ## Guides to using the Chrome Extension
 
