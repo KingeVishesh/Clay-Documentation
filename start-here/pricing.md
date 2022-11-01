@@ -3,13 +3,13 @@ description: >-
   Learn more about Clay's pricing. We give you access to 25+ data providers at
   one simple monthly plan. No extra API keys, annual contracts, or gated
   features.
-cover: .gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black (2).png
+cover: ../.gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black (2).png
 coverY: 0
 ---
 
 # Clay Pricing
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

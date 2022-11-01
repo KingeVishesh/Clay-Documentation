@@ -6,11 +6,11 @@
 
 Create a `Twitter Followers` source and authenticate your account then click `Continue`.​
 
-<figure><img src="../.gitbook/assets/227.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/227.gif" alt=""><figcaption></figcaption></figure>
 
 ### Step 2 - Adding a username to extract Twitter followers <a href="#step-2-adding-a-username-to-extract-twitter-followers" id="step-2-adding-a-username-to-extract-twitter-followers"></a>
 
 Input the `Twitter Username` that you want to extract and click `Continue`. Select if you want to add the data to your existing table or new table.\
 
 
-<figure><img src="../.gitbook/assets/227.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/227.gif" alt=""><figcaption></figcaption></figure>

@@ -3,7 +3,7 @@ cover: .gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black (2).pn
 coverY: 158.3552055993001
 ---
 
-# 👋 Getting started
+# Getting started
 
 ## Build your first lead list in 3 minutes :zap:
 

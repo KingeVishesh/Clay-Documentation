@@ -6,10 +6,10 @@
 
 Create a <mark style="color:red;">`Github Stargazers`</mark> source and authenticate your account.&#x20;
 
-![](../.gitbook/assets/233.gif)
+![](../../.gitbook/assets/233.gif)
 
 ### Step 2 - Adding repository URL
 
 Add your <mark style="color:red;">`Repository URL`</mark> and click <mark style="color:red;">`Continue`</mark>. Select if you want to add the data to your existing table or new table.&#x20;
 
-<figure><img src="../.gitbook/assets/234.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/234.gif" alt=""><figcaption></figcaption></figure>
