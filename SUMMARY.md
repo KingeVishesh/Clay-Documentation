@@ -179,3 +179,4 @@
 * [Formulas](formulas.md)
 * [Clay Pricing](pricing.md)
 * [FAQ](faq.md)
+* [Clay Community](http://clay.com/slack)
