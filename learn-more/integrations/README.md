@@ -28,12 +28,12 @@ coverY: 0
 [clay-enrichment](clay-enrichment/)
 {% endcontent-ref %}
 
-{% content-ref url="../../clays-tools/clay-formatting-and-extractions/" %}
-[clay-formatting-and-extractions](../../clays-tools/clay-formatting-and-extractions/)
+{% content-ref url="../clay-formatting-and-extractions/" %}
+[clay-formatting-and-extractions](../clay-formatting-and-extractions/)
 {% endcontent-ref %}
 
-{% content-ref url="../../clays-tools/clay-scraping/" %}
-[clay-scraping](../../clays-tools/clay-scraping/)
+{% content-ref url="clay-scraping/" %}
+[clay-scraping](clay-scraping/)
 {% endcontent-ref %}
 
 {% content-ref url="clearbit/" %}
