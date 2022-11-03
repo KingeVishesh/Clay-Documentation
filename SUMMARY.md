@@ -30,6 +30,7 @@
     * [Create Record](learn-more/integrations/airtable/create-record.md)
     * [Update Record](learn-more/integrations/airtable/update-record.md)
     * [Lookup Record](learn-more/integrations/airtable/lookup-record.md)
+    * [Get Keywords](learn-more/integrations/airtable/get-keywords.md)
   * [Apollo.io](learn-more/integrations/apollo.io/README.md)
     * [Enrich Company](learn-more/integrations/apollo.io/enrich-company.md)
     * [Enrich Person](learn-more/integrations/apollo.io/enrich-person.md)
