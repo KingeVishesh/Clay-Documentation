@@ -123,7 +123,7 @@
     * [Update Prospect](learn-more/integrations/outreach/update-prospect.md)
   * [Owler](learn-more/integrations/owler/README.md)
     * [Enrich Company by Domain](learn-more/integrations/owler/enrich-company-by-domain.md)
-    * [Get Competitors for a Comapny](learn-more/integrations/owler/get-competitors-for-a-comapny.md)
+    * [Get Competitors for a Company](learn-more/integrations/owler/get-competitors-for-a-company.md)
   * [People Data Labs](learn-more/integrations/people-data-labs/README.md)
     * [Enrich Person](learn-more/integrations/people-data-labs/enrich-person.md)
   * [PhantomBuster](learn-more/integrations/phantombuster/README.md)
