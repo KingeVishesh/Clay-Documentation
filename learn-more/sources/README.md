@@ -1,5 +1,11 @@
 # Sources
 
+## Learn more
+
+{% embed url="https://www.loom.com/share/f36c25c4391f471aab31d0dd75b86072" %}
+
+Sources are how&#x20;
+
 ### All Sources
 
 {% content-ref url="import-csv.md" %}
