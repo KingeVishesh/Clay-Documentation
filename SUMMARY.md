@@ -91,6 +91,7 @@
   * [Google](learn-more/integrations/google/README.md)
     * [Find Business Google Review Information](learn-more/integrations/google/find-business-google-review-information.md)
     * [Find Google Job Listings](learn-more/integrations/google/find-google-job-listings.md)
+    * [Find Businesses in Google Maps](learn-more/integrations/google/find-businesses-in-google-maps.md)
     * [Find Keywords In Website](learn-more/integrations/google/find-keywords-in-website.md)
     * [Get Domain from Company Name](learn-more/integrations/google/get-domain-from-company-name.md)
     * [Find Github Organization from Company Name](learn-more/integrations/google/find-github-organization-from-company-name.md)
