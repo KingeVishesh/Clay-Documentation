@@ -39,12 +39,12 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [builtwith](builtwith/)
 {% endcontent-ref %}
 
-{% content-ref url="clay-enrichment/" %}
-[clay-enrichment](clay-enrichment/)
+{% content-ref url="clay-enrichments/" %}
+[clay-enrichments](clay-enrichments/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-formatting-and-extractions/" %}
-[clay-formatting-and-extractions](../clay-formatting-and-extractions/)
+{% content-ref url="clay-formatting-and-extractions/" %}
+[clay-formatting-and-extractions](clay-formatting-and-extractions/)
 {% endcontent-ref %}
 
 {% content-ref url="clay-scraping/" %}
@@ -99,8 +99,8 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [hunter](hunter/)
 {% endcontent-ref %}
 
-{% content-ref url="http-api.md" %}
-[http-api.md](http-api.md)
+{% content-ref url="http-api-1.md" %}
+[http-api-1.md](http-api-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="instagram/" %}

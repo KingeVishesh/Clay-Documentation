@@ -22,7 +22,9 @@
 * ****[**HubSpot**](broken-reference)**:** Stream in your entire CRM into a Clay table to enrich and send the data back.
 * [**CSV import**](broken-reference)**:** Upload any CSV directly into Clay. Simply map the columns to fields and start building your dream tables!
 
-Note that sources are built to feed your table live data, meaning that they pull in new data on a schedule (soon to be configurable!).All Sources
+Note that sources are built to feed your table live data, meaning that they pull in new data on a schedule (soon to be configurable!).
+
+## All Sources
 
 {% content-ref url="import-csv.md" %}
 [import-csv.md](import-csv.md)

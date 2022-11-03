@@ -12,8 +12,8 @@
 [extract-field-from-object.md](extract-field-from-object.md)
 {% endcontent-ref %}
 
-{% content-ref url="../integrations/clay-enrichment/extract-company-domain-from-email-address.md" %}
-[extract-company-domain-from-email-address.md](../integrations/clay-enrichment/extract-company-domain-from-email-address.md)
+{% content-ref url="extract-company-domain-from-email-address.md" %}
+[extract-company-domain-from-email-address.md](extract-company-domain-from-email-address.md)
 {% endcontent-ref %}
 
 {% content-ref url="extract-values-from-data.md" %}
@@ -24,16 +24,8 @@
 [filter-list-of-objects.md](filter-list-of-objects.md)
 {% endcontent-ref %}
 
-{% content-ref url="filter-list-of-objects.md" %}
-[filter-list-of-objects.md](filter-list-of-objects.md)
-{% endcontent-ref %}
-
 {% content-ref url="extract-urls-and-emails-from-text.md" %}
 [extract-urls-and-emails-from-text.md](extract-urls-and-emails-from-text.md)
-{% endcontent-ref %}
-
-{% content-ref url="../integrations/airtable/get-keywords.md" %}
-[get-keywords.md](../integrations/airtable/get-keywords.md)
 {% endcontent-ref %}
 
 {% content-ref url="get-pagination-urls.md" %}
