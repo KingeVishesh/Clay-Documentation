@@ -49,6 +49,7 @@
     * [Extract URLs and Emails from Text](learn-more/integrations/clay-enrichment/extract-urls-and-emails-from-text.md)
     * [Enrich Email](learn-more/integrations/clay-enrichment/enrich-email.md)
     * [Get Sitemap URLs for a Company Website](learn-more/integrations/clay-enrichment/get-sitemap-urls-for-a-company-website.md)
+    * [HTTP API](learn-more/integrations/clay-enrichment/http-api.md)
     * [Map Job Title to Persona](learn-more/integrations/clay-enrichment/map-job-title-to-persona.md)
     * [Find Work Email](learn-more/integrations/clay-enrichment/find-work-email.md)
     * [Find Company](learn-more/integrations/clay-enrichment/find-company.md)
