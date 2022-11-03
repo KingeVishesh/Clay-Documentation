@@ -26,6 +26,7 @@
     * [Check if URL is Valid](learn-more/integrations/clay-enrichment/check-if-url-is-valid.md)
     * [Enrich Company](learn-more/integrations/clay-enrichment/enrich-company.md)
     * [Enrich Person](learn-more/integrations/clay-enrichment/enrich-person.md)
+    * [Extract Company Domain from Email Address](learn-more/integrations/clay-enrichment/extract-company-domain-from-email-address.md)
     * [Enrich Email](learn-more/integrations/clay-enrichment/enrich-email.md)
     * [Get Sitemap URLs for a Company Website](learn-more/integrations/clay-enrichment/get-sitemap-urls-for-a-company-website.md)
     * [Map Job Title to Persona](learn-more/integrations/clay-enrichment/map-job-title-to-persona.md)
