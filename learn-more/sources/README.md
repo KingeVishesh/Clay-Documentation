@@ -17,10 +17,20 @@
 
 * ****[**LinkedIn**](broken-reference)**:** Query thousands of leads directly into your table through LinkedIn. Search profiles based on title, industry, experience, location, and much more.
 * ****[**Github Stargazers**](broken-reference)**:** Find new leads and prospects by pulling stargazers of any Github Repository directly into your table.
+* [**Github Contributors**](github-contributors.md)**:** Find people that have contributed to a repository. ****&#x20;
 * ****[**Twitter followers**](broken-reference)**:** Stream in followers of any account directly into a Clay table.
+* ****[**Twitter following**](twitter-following.md): Get a list of accounts that a Twitter user is following.&#x20;
 * ****[**Twitter mentions**](broken-reference)**:** Pull in profiles of replies and mentions for any Twitter thread.
 * ****[**HubSpot**](broken-reference)**:** Stream in your entire CRM into a Clay table to enrich and send the data back.
 * [**CSV import**](broken-reference)**:** Upload any CSV directly into Clay. Simply map the columns to fields and start building your dream tables!
+* ****[**Webhook**](webhook.md)**:** Send any data to Clay.
+* ****[**Phantombuster**](phantombuster.md)**:** Pull your results from Phantombuster Containers.
+* ****[**Salesforce Records**](salesforce-records.md)**:** Enrich your Salesforce data.
+* ****[**Apollo People Search**](apollo-people-search.md)**:** Search for people by Job Title from Apollo.
+* ****[**Typeform Responses**](typeform-responses.md)**:** Pull responses from your Typeform form.&#x20;
+* ****[**Google Maps**](google-maps.md)**:** Pull businesses on Google Maps in a location.&#x20;
+* ****[**Google Search**](google-search.md)**:** Pull search results from Google Search.
+* ****[**Close Contacts**](close-contacts.md)**:** Pull in contacts from Close CRM.
 
 Note that sources are built to feed your table live data, meaning that they pull in new data on a schedule (soon to be configurable!).
 
