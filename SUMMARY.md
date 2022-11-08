@@ -89,6 +89,7 @@
   * [GitHub](learn-more/integrations/github/README.md)
     * [Get User Details](learn-more/integrations/github/get-user-details.md)
   * [Google](learn-more/integrations/google/README.md)
+    * [Enrich Person from Google Search](learn-more/integrations/google/enrich-person-from-google-search.md)
     * [Find Business Google Review Information](learn-more/integrations/google/find-business-google-review-information.md)
     * [Find Google Job Listings](learn-more/integrations/google/find-google-job-listings.md)
     * [Find Businesses in Google Maps](learn-more/integrations/google/find-businesses-in-google-maps.md)
