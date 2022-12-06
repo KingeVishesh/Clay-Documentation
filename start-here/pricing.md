@@ -13,6 +13,14 @@ coverY: 0
 
 <details>
 
+<summary>Who is Clay made for?</summary>
+
+Clay is made for sales ops, demand generation, and growth teams looking to find more leads, faster. Our spreadsheet makes it easy to pull in leads from dozens of sources and enrichment to find almost any data possible.
+
+</details>
+
+<details>
+
 <summary>What are Clay enrichment credits?</summary>
 
 Clay is reshaping the data provider business model by bundling together 25+ different providers into a simple credit system for a fraction of the cost.&#x20;
@@ -71,5 +79,45 @@ Yes. Clay’s Chrome Extension makes it easy to scrape and import data from any 
 <summary>How is Clay different than People Data Labs or Clearbit?</summary>
 
 Unlike Clearbit, People Data Labs, ZoomInfo, and other enrichment services, we are not a data provider. We connect with 50+ data providers into a simple prospecting tool so you can build workflow automations, build enrichments on top of each other, score leads, and connect with your existing stack.Clay makes it possible to do wicked multi-enrichments such as using Google API to find a LinkedIn profile, then using a LinkedIn data to pull in their profile information, then using the company page to pull even more information. You'll never have to rely on just one data provider for your information again.
+
+</details>
+
+<details>
+
+<summary>Do I get charged a credit if no data is found? What if there's an error?</summary>
+
+If there's an error, then you will not be charged any credits. However, there are a few exceptions that "No Data Found" will charge credits. For instance, if we call Google's API and search open role counts, if the result is 0, this still counts as a run. Similarly for job role count, tech stack, and a few other integrations that "No data found" is helpful, this will charge a credit. All other enrichments such as find email, enrich Linkedin, etc. will only run if data is returned.
+
+</details>
+
+<details>
+
+<summary>Do my credits rollover each month?</summary>
+
+Currently credits do not rollover each month for Clay's enrichment credits. However, premium credits will rollover each month.
+
+</details>
+
+<details>
+
+<summary>Do I get charged credits if I bring my own API key?</summary>
+
+No, you're not charged credits if you bring your own API key.
+
+</details>
+
+<details>
+
+<summary>Can I connect my CRM or outbound tools to Clay?</summary>
+
+Absolutely. We can connect with over 100+ outbound tools and CRMs to help automate your prospecting or enrich your leads. This is included within the product.
+
+</details>
+
+<details>
+
+<summary>Do credits count for things that I OAuth into?</summary>
+
+No, currently there are no credit charges for things you OAuth into.
 
 </details>
