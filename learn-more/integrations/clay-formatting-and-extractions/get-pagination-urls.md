@@ -1,2 +1,0 @@
-# Get Pagination URLs
-

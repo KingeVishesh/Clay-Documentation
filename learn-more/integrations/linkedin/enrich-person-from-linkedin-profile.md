@@ -1,6 +1,6 @@
 # Enrich Person from LinkedIn Profile
 
-{% embed url="https://www.loom.com/share/e7a67f11ab9a42ffb42b28f3106c8efe" %}
+{% embed url="https://www.loom.com/share/e7a67f11ab9a42ffb42b28f3106c8efe?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 Our new "Enrich Person from LinkedIn Profile" integration allows you to use a person's LinkedIn link to extract valuable information about them such as emails, company info, website, and keywords in their LinkedIn account.&#x20;
 

@@ -1,6 +1,6 @@
 # Enrich Person & Company
 
-{% embed url="https://www.loom.com/share/32f1ef69dfdf46df97e15c0be443856a" %}
+{% embed url="https://www.loom.com/share/32f1ef69dfdf46df97e15c0be443856a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 Clearbit Enrich Person & Company allows you to get information about any person or company using their work email. It will return information like their LinkedIn profile, bio, and more. This is similar to Clearbit Enrich Company integration which takes domain as the input but it do not return any personal information.
 

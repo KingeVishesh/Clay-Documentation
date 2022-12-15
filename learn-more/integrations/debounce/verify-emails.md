@@ -1,6 +1,6 @@
 # Verify Emails
 
-{% embed url="https://www.loom.com/share/46f536989d6f42fbbcd1f5c28f8274ed" %}
+{% embed url="https://www.loom.com/share/46f536989d6f42fbbcd1f5c28f8274ed?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With Debounce Verify Emails integration you can take an email and verify it.
 

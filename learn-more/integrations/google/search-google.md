@@ -1,6 +1,6 @@
 # Search Google
 
-{% embed url="https://www.loom.com/share/7db094b0dc4e44f9a2e318b0627ca977" %}
+{% embed url="https://www.loom.com/share/7db094b0dc4e44f9a2e318b0627ca977?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With Search Google integration you can take a google search query to find google search listings. &#x20;
 

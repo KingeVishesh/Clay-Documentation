@@ -1,6 +1,6 @@
 # Enrich Person
 
-{% embed url="https://www.loom.com/share/5efd1695a3a640859143daf4cc0c3f48" %}
+{% embed url="https://www.loom.com/share/5efd1695a3a640859143daf4cc0c3f48?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With People Data Labs integration you can input any information about the person like the Email, a Social Link, or name and the company. It will result in information like LinkedIn, phone number, HQ location, and a lot more information about the person.&#x20;
 

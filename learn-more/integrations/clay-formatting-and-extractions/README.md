@@ -4,40 +4,40 @@
 
 ## See all Formatting & Extractions Integrations
 
-{% content-ref url="categorize-items-based-on-keywords.md" %}
-[categorize-items-based-on-keywords.md](categorize-items-based-on-keywords.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="extract-field-from-object.md" %}
-[extract-field-from-object.md](extract-field-from-object.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="extract-company-domain-from-email-address.md" %}
-[extract-company-domain-from-email-address.md](extract-company-domain-from-email-address.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="extract-values-from-data.md" %}
-[extract-values-from-data.md](extract-values-from-data.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="filter-list-of-objects.md" %}
-[filter-list-of-objects.md](filter-list-of-objects.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="extract-urls-and-emails-from-text.md" %}
-[extract-urls-and-emails-from-text.md](extract-urls-and-emails-from-text.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="get-pagination-urls.md" %}
-[get-pagination-urls.md](get-pagination-urls.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="normalize-a-url.md" %}
-[normalize-a-url.md](normalize-a-url.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="order-a-list.md" %}
-[order-a-list.md](order-a-list.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="format-date-time.md" %}

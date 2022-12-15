@@ -1,6 +1,6 @@
 # Get Popular Tweets
 
-{% embed url="https://www.loom.com/share/96b8a8c1001d49f7aaa668fb772cb574" %}
+{% embed url="https://www.loom.com/share/96b8a8c1001d49f7aaa668fb772cb574?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 In this video, Patrick outlines how to quickly map out a list of popular tweets from certain Twitter users. Our "Find Popular Tweets" integration makes this as easy as a few clicks.
 

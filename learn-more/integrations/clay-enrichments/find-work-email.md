@@ -1,6 +1,6 @@
 # Find Work Email
 
-{% embed url="https://www.loom.com/share/8f5c21637063450999892b768725400a" %}
+{% embed url="https://www.loom.com/share/8f5c21637063450999892b768725400a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With Clay Find Work Email integration you can take a person's full name and company URL to find their work email.
 

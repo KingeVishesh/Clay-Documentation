@@ -1,2 +1,0 @@
-# Retrieve Record by ID
-

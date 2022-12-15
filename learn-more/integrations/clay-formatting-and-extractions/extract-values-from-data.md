@@ -1,2 +1,0 @@
-# Extract Values from Data
-

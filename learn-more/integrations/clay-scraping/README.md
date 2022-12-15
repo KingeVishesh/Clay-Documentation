@@ -16,6 +16,6 @@ Learn More about Scraping on the pages below:
 [get-data-from-page.md](get-data-from-page.md)
 {% endcontent-ref %}
 
-{% content-ref url="scrape-website.md" %}
-[scrape-website.md](scrape-website.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

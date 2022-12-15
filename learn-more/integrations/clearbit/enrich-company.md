@@ -1,6 +1,6 @@
 # Enrich Company
 
-{% embed url="https://www.loom.com/share/607c3e4c39af407ca6ce5ac3609a39f7" %}
+{% embed url="https://www.loom.com/share/607c3e4c39af407ca6ce5ac3609a39f7?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With Clearbit Enrich Company integration you can take a domain name and get data points like LinkedIn, phone number, HQ location, and more about the company.&#x20;
 

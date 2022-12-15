@@ -1,6 +1,6 @@
 # Get Data from Page
 
-{% embed url="https://www.loom.com/share/94fdf96be77f4449ba15c7efea64816b" %}
+{% embed url="https://www.loom.com/share/e46b3ba4c9324c199a5da2b0119a6381?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 Get Data from Page allows you to scrape structured data from any website. To add Get Data From Page, click on Add Integrations and select `Get Data From Page`.
 

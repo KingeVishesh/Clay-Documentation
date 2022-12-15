@@ -1,6 +1,6 @@
 # Get Domain from Company Name
 
-{% embed url="https://www.loom.com/share/68bf89cd1af24687ae06a93ee8a1ce95" %}
+{% embed url="https://www.loom.com/share/68bf89cd1af24687ae06a93ee8a1ce95?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With Get Domain from Company Name integration you can take the company name to find company domain and more about the company.
 

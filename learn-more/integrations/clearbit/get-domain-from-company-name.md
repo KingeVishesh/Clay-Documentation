@@ -1,6 +1,6 @@
 # Get Domain from Company Name
 
-{% embed url="https://www.loom.com/share/9cb5ed2852e14e928710328af8958305" %}
+{% embed url="https://www.loom.com/share/9cb5ed2852e14e928710328af8958305?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 This integration helps get the website domain of a company from the company name. It is free and doesn’t require any premium credits.&#x20;
 

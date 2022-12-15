@@ -1,6 +1,6 @@
 # Find Keywords In Website
 
-{% embed url="https://www.loom.com/share/8d2ad0965a554353b7d01c11fd225fdc" %}
+{% embed url="https://www.loom.com/share/8d2ad0965a554353b7d01c11fd225fdc?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With Find Keywords In Website integration you can take a domain name and keywords to find if the keywords exist on a website.&#x20;
 
