@@ -7,7 +7,7 @@ coverY: 158.3552055993001
 
 ## Build your first lead list in 3 minutes :zap:
 
-{% embed url="https://www.loom.com/share/58a9b1406b7749939ceded52b3fc98b4" %}
+{% embed url="https://www.loom.com/share/58a9b1406b7749939ceded52b3fc98b4?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 Clay is a simple spreadsheet interface, yet powerful automation platform that allows you to build internal tooling and automations to streamline your marketing, sales, and recruiting.
 
