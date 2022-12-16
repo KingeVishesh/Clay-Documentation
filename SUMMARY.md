@@ -63,6 +63,7 @@
     * [Categorize Items Based On Keywords](learn-more/integrations/clay/categorize-items-based-on-keywords.md)
   * [Clay Enrichments](learn-more/integrations/clay-enrichments/README.md)
     * [Find Personal Email & Social URLs](learn-more/integrations/clay-enrichments/find-personal-email-and-social-urls.md)
+    * [Find Mobile Numbers and Social URLs](learn-more/integrations/clay-enrichments/find-mobile-numbers-and-social-urls.md)
     * [Find Work Email](learn-more/integrations/clay-enrichments/find-work-email.md)
   * [Clay Formatting & Extractions](learn-more/integrations/clay-formatting-and-extractions/README.md)
     * [Normalize Company Name](learn-more/integrations/clay-formatting-and-extractions/normalize-company-name.md)
