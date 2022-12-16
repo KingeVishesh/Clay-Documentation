@@ -101,6 +101,8 @@
   * [Google Scholar](learn-more/integrations/google-scholar/README.md)
     * [Enrich Author](learn-more/integrations/google-scholar/enrich-author.md)
     * [Find Author](learn-more/integrations/google-scholar/find-author.md)
+  * [Google Sheets](learn-more/integrations/google-sheets/README.md)
+    * [Add/Lookup Row](learn-more/integrations/google-sheets/add-lookup-row.md)
   * [Hacker News](learn-more/integrations/hacker-news/README.md)
     * [Get Post Details](learn-more/integrations/hacker-news/get-post-details.md)
     * [Get User Details](learn-more/integrations/hacker-news/get-user-details.md)
