@@ -83,8 +83,8 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [google](google/)
 {% endcontent-ref %}
 
-{% content-ref url="google-scholar/" %}
-[google-scholar](google-scholar/)
+{% content-ref url="google/google-scholar/" %}
+[google-scholar](google/google-scholar/)
 {% endcontent-ref %}
 
 {% content-ref url="hacker-news/" %}
