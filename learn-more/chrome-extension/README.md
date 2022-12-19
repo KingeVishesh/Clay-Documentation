@@ -1,6 +1,4 @@
 ---
-description: >-
-  https://chrome.google.com/webstore/detail/clay-for-chrome/acmfklpkefjlldbkdgmjoiknfgidadoh?hl=en
 cover: >-
   ../../.gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black
   (2).png
