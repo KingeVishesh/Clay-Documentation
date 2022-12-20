@@ -151,7 +151,6 @@
   * [People Data Labs](learn-more/integrations/people-data-labs/README.md)
     * [Enrich Person](learn-more/integrations/people-data-labs/enrich-person.md)
   * [PhantomBuster](learn-more/integrations/phantombuster/README.md)
-    * [Pull Data](learn-more/integrations/phantombuster/pull-data.md)
     * [Push Data](learn-more/integrations/phantombuster/push-data.md)
   * [Pipedrive](learn-more/integrations/pipedrive/README.md)
     * [Create Organization](learn-more/integrations/pipedrive/create-organization.md)
