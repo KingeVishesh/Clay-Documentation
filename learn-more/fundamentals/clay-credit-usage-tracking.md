@@ -11,7 +11,7 @@ coverY: 0
 
 Clay’s new plans introduces three levels of Clay enrichment credits: 20k, 50k, and 100k. More information can be found on [clay.com/pricing](http://clay.com/pricing).
 
-We’ve bundled together all of our enrichments into a simple enrichment system to make it easy for users to access 20+ enrichment services all within your spreadsheet!
+We’ve bundled together all of our enrichments into a simple enrichment system to make it easy for users to access 50+ enrichment services without a single API key.
 
 Here’s a quick rundown of how these credits work:
 
