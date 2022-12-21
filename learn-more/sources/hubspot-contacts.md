@@ -1,6 +1,6 @@
 # Hubspot Contacts
 
-{% embed url="https://www.loom.com/share/c6071daf7de54c56a0c45b773f14ca88" %}
+{% embed url="https://www.loom.com/share/c6071daf7de54c56a0c45b773f14ca88?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 With Hubspot Contacts integration you can OAuth your account and pull as many contacts as you like to get data points like LinkedIn, phone number, HQ location, and more about the company.
 

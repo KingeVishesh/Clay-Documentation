@@ -1,6 +1,6 @@
 # Twitter Mentions
 
-{% embed url="https://www.loom.com/share/f76530630fe5496485f100fadbd1b926" %}
+{% embed url="https://www.loom.com/share/f76530630fe5496485f100fadbd1b926?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 ### Step 1 - Creating a source and adding the Tweet URL
 
