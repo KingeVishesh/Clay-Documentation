@@ -1,6 +1,6 @@
 # Get Account Details
 
-{% embed url="https://www.loom.com/share/8c5816e2a92a4e1e811718faaaea8b2?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
+{% embed url="https://www.loom.com/share/8c5816e2a92a4e1e811718faaaea8b25" %}
 
 Clay's "Get Account Details" Twitter integration allows you to find info such as follower count, status counts, profile URL and more, easily accessible to work with the rest of your Clay data. All it requires is a name and Twitter URL!
 
