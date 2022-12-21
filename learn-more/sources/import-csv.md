@@ -1,6 +1,6 @@
 # Import CSV
 
-{% embed url="https://www.loom.com/share/3d883dce477445df81f29417809d5139" %}
+{% embed url="https://www.loom.com/share/3d883dce477445df81f29417809d5139?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 ### Step 1 - Creating a source&#x20;
 

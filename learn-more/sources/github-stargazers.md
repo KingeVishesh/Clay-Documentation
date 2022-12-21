@@ -1,6 +1,6 @@
 # GitHub Stargazers
 
-{% embed url="https://www.loom.com/share/52c9c966bc18468b92336d209d1c4c1a" %}
+{% embed url="https://www.loom.com/share/52c9c966bc18468b92336d209d1c4c1a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 
 ### Step 1 - Create a source
 
