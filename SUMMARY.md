@@ -109,6 +109,7 @@
   * [GPT-3](learn-more/integrations/gpt-3/README.md)
     * [Complete Prompt](learn-more/integrations/gpt-3/complete-prompt.md)
     * [Edit Text](learn-more/integrations/gpt-3/edit-text.md)
+    * [Generate Image](learn-more/integrations/gpt-3/generate-image.md)
   * [Hacker News](learn-more/integrations/hacker-news/README.md)
     * [Get Post Details](learn-more/integrations/hacker-news/get-post-details.md)
     * [Get User Details](learn-more/integrations/hacker-news/get-user-details.md)
