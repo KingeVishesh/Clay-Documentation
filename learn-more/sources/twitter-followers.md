@@ -1,6 +1,6 @@
 # Twitter Followers
 
-{% embed url="https://www.loom.com/share/9a7ab14e8b7d4ec4b62f7f4d18ebdbab?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
+{% embed url="https://www.loom.com/share/9a7ab14e8b7d4ec4b62f7f4d18ebdbab" %}
 
 ### Step 1 - Creating a source <a href="#step-1-creating-a-source" id="step-1-creating-a-source"></a>
 

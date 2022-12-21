@@ -1,6 +1,6 @@
 # Webhook
 
-{% embed url="https://www.loom.com/share/40d40dcef6c042899ec4ead12e06e4a5?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
+{% embed url="https://www.loom.com/share/40d40dcef6c042899ec4ead12e06e4a5" %}
 
 ### Step 1 - Create a source
 

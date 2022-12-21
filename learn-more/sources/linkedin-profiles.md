@@ -7,7 +7,7 @@ description: >-
 
 # Linkedin Profiles
 
-{% embed url="https://www.loom.com/share/830b4fd0d6824316929be53b98c3a7ed?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
+{% embed url="https://www.loom.com/share/830b4fd0d6824316929be53b98c3a7ed" %}
 
 1. Navigate over to the **Sources** button in your table of choice\
 

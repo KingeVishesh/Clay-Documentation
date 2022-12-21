@@ -43,6 +43,7 @@
     * [Lookup Technology Stack](learn-more/integrations/builtwith/lookup-technology-stack.md)
   * [Clay](learn-more/integrations/clay/README.md)
     * [Count Occurrences of Items](learn-more/integrations/clay/count-occurrences-of-items.md)
+    * [Remove Extra Whitespace from Text](learn-more/integrations/clay/remove-extra-whitespace-from-text.md)
     * [Scrape Website](learn-more/integrations/clay/scrape-website.md)
     * [Order a list](learn-more/integrations/clay/order-a-list.md)
     * [Normalize and Deduplicate a List](learn-more/integrations/clay/normalize-and-deduplicate-a-list.md)
