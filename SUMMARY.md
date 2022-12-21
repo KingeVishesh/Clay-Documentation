@@ -28,6 +28,7 @@
 * [Integrations](learn-more/integrations/README.md)
   * [Airtable](learn-more/integrations/airtable/README.md)
     * [Create Record](learn-more/integrations/airtable/create-record.md)
+    * [Upsert Record](learn-more/integrations/airtable/upsert-record.md)
     * [Update Record](learn-more/integrations/airtable/update-record.md)
     * [Lookup Record](learn-more/integrations/airtable/lookup-record.md)
     * [Get Keywords](learn-more/integrations/airtable/get-keywords.md)
