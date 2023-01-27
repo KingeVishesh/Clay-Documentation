@@ -33,14 +33,6 @@ Want to learn more? Check it out here: [https://www.loom.com/share/0acccd32c4ce4
 
 <details>
 
-<summary>Do enrichment credits roll over each month?</summary>
-
-No. Currently right now our enrichment credits do not roll over each month.&#x20;
-
-</details>
-
-<details>
-
 <summary>How is Clay able to offer so many enrichment providers at a low cost?</summary>
 
 We offer a simple monthly subscription at a fraction of the cost of most single data providers. This is because we buy our credits in bulk, so you can get them for much cheaper without signing onto large, unnecessary commitments. You can pick and choose the best tools for your prospecting flow :)
