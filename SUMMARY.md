@@ -126,7 +126,6 @@
     * [Find Emails for Company by Domain](learn-more/integrations/hunter/find-emails-for-company-by-domain.md)
     * [Verify Email](learn-more/integrations/hunter/verify-email.md)
   * [HTTP API](learn-more/integrations/http-api.md)
-  * [HTTP API](learn-more/integrations/http-api-1.md)
   * [Instagram](learn-more/integrations/instagram/README.md)
     * [Find Company Instagram Profile](learn-more/integrations/instagram/find-company-instagram-profile.md)
   * [Instantly](learn-more/integrations/instantly/README.md)

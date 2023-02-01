@@ -99,8 +99,8 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [hunter](hunter/)
 {% endcontent-ref %}
 
-{% content-ref url="http-api-1.md" %}
-[http-api-1.md](http-api-1.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="instagram/" %}
