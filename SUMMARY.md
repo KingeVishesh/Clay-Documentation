@@ -138,6 +138,7 @@
     * [Enrich Company](learn-more/integrations/linkedin/enrich-company.md)
     * [Enrich Person from LinkedIn Profile](learn-more/integrations/linkedin/enrich-person-from-linkedin-profile.md)
     * [Enrich Person from Name and Company](learn-more/integrations/linkedin/enrich-person-from-name-and-company.md)
+    * [Find Recent LinkedIn Posts](learn-more/integrations/linkedin/find-recent-linkedin-posts.md)
     * [Find People](learn-more/integrations/linkedin/find-people.md)
     * [Get Counts of Roles at Company](learn-more/integrations/linkedin/get-counts-of-roles-at-company.md)
     * [Enrich Person from Google Search](learn-more/integrations/linkedin/enrich-person-from-google-search.md)
