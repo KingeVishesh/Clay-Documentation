@@ -154,6 +154,8 @@
     * [Enrich Company by Domain](learn-more/integrations/owler/enrich-company-by-domain.md)
     * [Get Company Updates by Domain](learn-more/integrations/owler/get-company-updates-by-domain.md)
     * [Get Competitors for a Company](learn-more/integrations/owler/get-competitors-for-a-comapny.md)
+  * [Open AI](learn-more/integrations/open-ai/README.md)
+    * [Converse with ChatGPT](learn-more/integrations/open-ai/converse-with-chatgpt.md)
   * [People Data Labs](learn-more/integrations/people-data-labs/README.md)
     * [Enrich Person](learn-more/integrations/people-data-labs/enrich-person.md)
   * [PhantomBuster](learn-more/integrations/phantombuster/README.md)
