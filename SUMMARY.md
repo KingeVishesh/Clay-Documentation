@@ -87,7 +87,6 @@
     * [Traffic Data Scrape](learn-more/integrations/dataforseo/traffic-data-scrape.md)
   * [Datagma](learn-more/integrations/datagma/README.md)
     * [Enrich Company](learn-more/integrations/datagma/enrich-company.md)
-    * [Enrich Person](learn-more/integrations/datagma/enrich-person.md)
     * [Find Employees at Company](learn-more/integrations/datagma/find-employees-at-company.md)
     * [Find Work Email](learn-more/integrations/datagma/find-work-email.md)
   * [Debounce](learn-more/integrations/debounce/README.md)
