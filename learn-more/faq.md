@@ -69,7 +69,7 @@ Yes. Clay’s Chrome Extension makes it easy to scrape and import data from any 
 
 <summary>How is Clay different Clearbit, People Data Labs, or other data providers?</summary>
 
-Unlike Clearbit, People Data Labs, ZoomInfo, and other enrichment services, we are not a data provider. We connect with 50+ data providers into a simple prospecting tool so you can build workflow automations, build enrichments on top of each other, score leads, and connect with stack.
+Unlike Clearbit, People Data Labs, and other enrichment services, we are not a data provider. We connect with 50+ data providers into a simple prospecting tool so you can build workflow automations, build enrichments on top of each other, score leads, and connect with stack.
 
 Clay makes it possible to do wicked multi-enrichments such as using Google API to find a LinkedIn profile, then using a LinkedIn API to pull in their profile information, then using the company page to pull even more information.
 
