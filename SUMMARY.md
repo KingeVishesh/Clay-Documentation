@@ -47,6 +47,7 @@
     * [Scrape Website](learn-more/integrations/clay/scrape-website.md)
     * [Order a list](learn-more/integrations/clay/order-a-list.md)
     * [Normalize and Deduplicate a List](learn-more/integrations/clay/normalize-and-deduplicate-a-list.md)
+    * [Write to Table](learn-more/integrations/clay/write-to-table.md)
     * [Normalize a URL](learn-more/integrations/clay/normalize-a-url.md)
     * [Map Job Title to Persona](learn-more/integrations/clay/map-job-title-to-persona.md)
     * [Lookup Record in Other Table (Clay 2.0)](learn-more/integrations/clay/lookup-record-in-other-table-clay-2.0.md)
