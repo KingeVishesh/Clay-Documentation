@@ -84,6 +84,8 @@
     * [Add/Update Customer](learn-more/integrations/customer.io/add-update-customer.md)
   * [Craft](learn-more/integrations/craft/README.md)
     * [Enrich Company by Domain](learn-more/integrations/craft/enrich-company-by-domain.md)
+  * [DappRadar](learn-more/integrations/dappradar/README.md)
+    * [Get Dapp](learn-more/integrations/dappradar/get-dapp.md)
   * [DataForSEO](learn-more/integrations/dataforseo/README.md)
     * [Traffic Data Scrape](learn-more/integrations/dataforseo/traffic-data-scrape.md)
   * [Datagma](learn-more/integrations/datagma/README.md)
