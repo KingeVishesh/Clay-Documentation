@@ -58,7 +58,11 @@ Anytime you add new records into the table, the Customer.io campaign will automa
 
 Want leads to flow into your table but still want to manually run campaigns? You can simply create a conditional run that only runs when a checkbox is clicked.
 
-![](<../../../.gitbook/assets/031b5cae51699fb0f46bd444f6ee3e91 (2).gif>)
+<div align="center">
+
+<img src="../../../.gitbook/assets/031b5cae51699fb0f46bd444f6ee3e91 (2).gif" alt="">
+
+</div>
 
 Within the Email input, go to **Edit Raw** and enter an **if()** formula that says if that column is true (checked = true), then use the email. Otherwise, it will not run until the checkbox is checked.
 

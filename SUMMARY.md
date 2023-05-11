@@ -3,8 +3,8 @@
 ## 👋 Start Here
 
 * [Quickstart — What is Clay?](README.md)
-* [Clay Pricing](start-here/pricing.md)
 * [Beginner to advanced Clay guide](https://clayrun.notion.site/The-Beginner-to-Advanced-Clay-Guide-c8ede56dbf0347fe82766a5d29c46a83)
+* [AI in Clay Guide](https://clayrun.notion.site/A-Guide-To-AI-with-Clay-b3944ae39fa64583a72b6cffa35c21d2)
 
 ## 🤝 Learn more
 

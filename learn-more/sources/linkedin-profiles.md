@@ -20,5 +20,5 @@ description: >-
       \
       **🚨 Note that you can only enter one option per input, e.g. one location, one title for the time being -- we will be enabling multiple comma separated options soon!**
 
-    ****
+
 4. **You're all set**! Create new tables with new sources, add more LinkedIn sources into existing tables, and more.

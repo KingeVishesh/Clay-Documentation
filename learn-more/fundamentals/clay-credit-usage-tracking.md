@@ -17,7 +17,11 @@ Here’s a quick rundown of how these credits work:
 
 1. Clay users are given 20k, 50k, or 100k Clay enrichment credits depending on their chosen plan.
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/credits1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 2\.  The enrichments that cost credits have an icon next to them in the Enrich data panel. For example, if you have 3 enrichment columns (e.g. Enrich Person, Enrich Company, and Find New events) in a table, each row will use 3 credits. Enrichments usually use 1 credit, but some integrations like “Find Work Email” and “Find & Enrich Person from Google Search” each use 2 credits.
 
