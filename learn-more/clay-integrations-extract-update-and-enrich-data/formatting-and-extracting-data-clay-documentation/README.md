@@ -1,4 +1,10 @@
-# Clay Formatting & Extractions
+---
+description: >-
+  Access scholarly research, leverage academic insights, and enhance outreach
+  success with Google Scholar integration for data-driven prospecting.
+---
+
+# Formatting & Extracting Data - Clay Documentation
 
 {% embed url="https://www.loom.com/share/95ad28bfebee47658d5e5b8935f48c06" %}
 

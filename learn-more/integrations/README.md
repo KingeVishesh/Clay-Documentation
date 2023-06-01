@@ -26,8 +26,8 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 
 ## See all integrations (Enrichments and Destinations)
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/airtable-integration-or-automated-data-enrichment-or-clay/" %}
-[airtable-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/airtable-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="airtable/" %}
+[airtable](airtable/)
 {% endcontent-ref %}
 
 {% content-ref url="apollo.io/" %}
@@ -42,12 +42,12 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [builtwith](builtwith/)
 {% endcontent-ref %}
 
-{% content-ref url="clay-enrichments/" %}
-[clay-enrichments](clay-enrichments/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/clay-enrichments-or-automated-data-enrichment-or-clay/" %}
+[clay-enrichments-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/clay-enrichments-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="clay-formatting-and-extractions/" %}
-[clay-formatting-and-extractions](clay-formatting-and-extractions/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/formatting-and-extracting-data-clay-documentation/" %}
+[formatting-and-extracting-data-clay-documentation](../clay-integrations-extract-update-and-enrich-data/formatting-and-extracting-data-clay-documentation/)
 {% endcontent-ref %}
 
 {% content-ref url="clay-scraping/" %}
@@ -62,56 +62,56 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [clearbit-logo](clearbit-logo/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/customer.io-integration-or-automated-data-enrichment-or-clay/" %}
-[customer.io-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/customer.io-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="customer.io/" %}
+[customer.io](customer.io/)
 {% endcontent-ref %}
 
-{% content-ref url="dataforseo/" %}
-[dataforseo](dataforseo/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/dataforseo-integration-or-automated-data-enrichment-or-clay/" %}
+[dataforseo-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/dataforseo-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/datagma-integration-or-automated-data-enrichment-or-clay/" %}
-[datagma-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/datagma-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="datagma/" %}
+[datagma](datagma/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/debounce-integration-or-email-verification-and-data-enrichment/" %}
-[debounce-integration-or-email-verification-and-data-enrichment](../clay-integrations-extract-update-and-enrich-data/debounce-integration-or-email-verification-and-data-enrichment/)
+{% content-ref url="debounce/" %}
+[debounce](debounce/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/github-integration-or-automated-data-enrichment-or-clay/" %}
-[github-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/github-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="github/" %}
+[github](github/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/" %}
-[google-integration-or-data-enrichment-and-lead-scoring](../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/)
+{% content-ref url="google/" %}
+[google](google/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/google-scholar/" %}
-[google-scholar](../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/google-scholar/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/google-scholar-clay-documentation/" %}
+[google-scholar-clay-documentation](../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/google-scholar-clay-documentation/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/hacker-news-integration-or-automated-data-enrichment-or-clay/" %}
-[hacker-news-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/hacker-news-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="hacker-news/" %}
+[hacker-news](hacker-news/)
 {% endcontent-ref %}
 
-{% content-ref url="hubspot/" %}
-[hubspot](hubspot/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/hubspot-integration-or-automated-data-enrichment-or-clay/" %}
+[hubspot-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/hubspot-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="hunter/" %}
-[hunter](hunter/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/hunter-integration-or-automated-data-enrichment-or-clay/" %}
+[hunter-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/hunter-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="instagram/" %}
-[instagram](instagram/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/instagram-integration-or-automated-data-enrichment-or-clay/" %}
+[instagram-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/instagram-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="linear/" %}
-[linear](linear/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/linear-integration-or-automated-data-enrichment-or-clay/" %}
+[linear-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/linear-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
 {% content-ref url="linkedin/" %}
@@ -122,16 +122,16 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [mapbox](mapbox/)
 {% endcontent-ref %}
 
-{% content-ref url="outreach/" %}
-[outreach](outreach/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/outreach-integration-or-automated-data-enrichment-or-clay/" %}
+[outreach-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/outreach-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="owler/" %}
-[owler](owler/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/owler-integration-or-automated-data-enrichment-or-clay/" %}
+[owler-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/owler-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/people-data-labs-integration-or-data-enrichment-and-lead-scoring/" %}
-[people-data-labs-integration-or-data-enrichment-and-lead-scoring](../clay-integrations-extract-update-and-enrich-data/people-data-labs-integration-or-data-enrichment-and-lead-scoring/)
+{% content-ref url="people-data-labs/" %}
+[people-data-labs](people-data-labs/)
 {% endcontent-ref %}
 
 {% content-ref url="phantombuster/" %}
@@ -170,7 +170,7 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [typeform](typeform/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/zerobounce-integration-or-email-validation-and-data-enrichment/" %}
-[zerobounce-integration-or-email-validation-and-data-enrichment](../clay-integrations-extract-update-and-enrich-data/zerobounce-integration-or-email-validation-and-data-enrichment/)
+{% content-ref url="zero-bounce/" %}
+[zero-bounce](zero-bounce/)
 {% endcontent-ref %}
 
