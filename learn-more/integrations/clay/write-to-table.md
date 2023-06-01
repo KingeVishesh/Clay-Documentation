@@ -12,7 +12,7 @@ Step 2: Add the new columns that you want to write so you have columns in which 
 
 Step 3: Find our “Write to Table integration and open it the prompt will ask you for what you want to write to the table, then for the columns that define the attribute you’re writing to.
 
-Step 4: Input your API key by clicking on your name on the bottom left of your screen, selecting "developer", and then copying your API key. You may need to upgrade your plan for this to work.
+Step 4: Input your API key by clicking on your name on the bottom left of your screen, selecting "developer", and then copying your API key + pasting in the allotted box. You may need to upgrade your plan for this to work.
 
 Step 4: Now, you will need to define each field that you’re mapping to a new column. This will be repeated for each column in your table. You may be asked whether a value is a constant- this is asking whether the value is applicable to each person in your row. For example, if a company has raised $1,500,000 in funding, and your search returned three people from that company, then the $1,500,000 would be a constant because it applies to all three people from that company.
 
