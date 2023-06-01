@@ -34,12 +34,12 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [apollo.io](apollo.io/)
 {% endcontent-ref %}
 
-{% content-ref url="bright-data/" %}
-[bright-data](bright-data/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/bright-data-integration-or-data-collection-and-enrichment/" %}
+[bright-data-integration-or-data-collection-and-enrichment](../clay-integrations-extract-update-and-enrich-data/bright-data-integration-or-data-collection-and-enrichment/)
 {% endcontent-ref %}
 
-{% content-ref url="builtwith/" %}
-[builtwith](builtwith/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/builtwith-integration-or-find-extract-and-enrich-website-data/" %}
+[builtwith-integration-or-find-extract-and-enrich-website-data](../clay-integrations-extract-update-and-enrich-data/builtwith-integration-or-find-extract-and-enrich-website-data/)
 {% endcontent-ref %}
 
 {% content-ref url="clay-enrichments/" %}
