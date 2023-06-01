@@ -1,11 +1,14 @@
 ---
+description: >-
+  Scrape, extract, and enrich data from any app, website, or system. Automate
+  comprehensive, accurate, real-time data management with Clay in minutes.
 cover: >-
   ../../.gitbook/assets/62ffcf409d74150b0191f72f_Header - claymation black
   (2).png
 coverY: 0
 ---
 
-# Integrations
+# Clay Integrations: Extract, Update, and Enrich Data
 
 {% embed url="https://www.loom.com/share/b381a89cd3a64a3898478c733fe9fb84" %}
 
