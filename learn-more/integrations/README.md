@@ -114,8 +114,8 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [linear](linear/)
 {% endcontent-ref %}
 
-{% content-ref url="linkedin/" %}
-[linkedin](linkedin/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/linkedin-integration-or-automated-data-enrichment-or-clay/" %}
+[linkedin-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/linkedin-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
 {% content-ref url="mapbox/" %}
@@ -138,36 +138,36 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [phantombuster](phantombuster/)
 {% endcontent-ref %}
 
-{% content-ref url="pipedrive/" %}
-[pipedrive](pipedrive/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/pipedrive-integration-or-automated-data-enrichment-or-clay/" %}
+[pipedrive-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/pipedrive-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="postgres/" %}
-[postgres](postgres/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/postgres-integration-or-data-extraction-and-enrichment/" %}
+[postgres-integration-or-data-extraction-and-enrichment](../clay-integrations-extract-update-and-enrich-data/postgres-integration-or-data-extraction-and-enrichment/)
 {% endcontent-ref %}
 
-{% content-ref url="product-hunt/" %}
-[product-hunt](product-hunt/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/product-hunt-integration-or-automated-data-enrichment-or-clay/" %}
+[product-hunt-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/product-hunt-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="salesforce/" %}
-[salesforce](salesforce/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/salesforce-integration-or-automated-data-enrichment-or-clay/" %}
+[salesforce-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/salesforce-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="shopify/" %}
-[shopify](shopify/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/shopify-integration-or-automated-data-enrichment-or-clay/" %}
+[shopify-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/shopify-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="slack/" %}
-[slack](slack/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/slack-integration-or-automated-data-enrichment-or-clay/" %}
+[slack-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/slack-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="twitter/" %}
-[twitter](twitter/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/twitter-integration-or-extract-enrich-and-analyze-twitter-data/" %}
+[twitter-integration-or-extract-enrich-and-analyze-twitter-data](../clay-integrations-extract-update-and-enrich-data/twitter-integration-or-extract-enrich-and-analyze-twitter-data/)
 {% endcontent-ref %}
 
-{% content-ref url="typeform/" %}
-[typeform](typeform/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/typeform-integration-or-automated-data-collection-and-enrichment/" %}
+[typeform-integration-or-automated-data-collection-and-enrichment](../clay-integrations-extract-update-and-enrich-data/typeform-integration-or-automated-data-collection-and-enrichment/)
 {% endcontent-ref %}
 
 {% content-ref url="zero-bounce/" %}
