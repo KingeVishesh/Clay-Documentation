@@ -1,4 +1,10 @@
-# HTTP API
+---
+description: >-
+  Integrate Clay with your HTTP API for seamless data transfer and integration.
+  Simplify your data workflows and enhance efficiency.
+---
+
+# HTTP API Integration | Automated Data Enrichment | Clay
 
 {% embed url="https://www.loom.com/share/62f29e7c33f549de86e64b4c8d0bd68a?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" %}
 

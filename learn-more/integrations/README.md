@@ -26,20 +26,20 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 
 ## See all integrations (Enrichments and Destinations)
 
-{% content-ref url="airtable/" %}
-[airtable](airtable/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/airtable-integration-or-automated-data-enrichment-or-clay/" %}
+[airtable-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/airtable-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
 {% content-ref url="apollo.io/" %}
 [apollo.io](apollo.io/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/bright-data-integration-or-data-collection-and-enrichment/" %}
-[bright-data-integration-or-data-collection-and-enrichment](../clay-integrations-extract-update-and-enrich-data/bright-data-integration-or-data-collection-and-enrichment/)
+{% content-ref url="bright-data/" %}
+[bright-data](bright-data/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/builtwith-integration-or-find-extract-and-enrich-website-data/" %}
-[builtwith-integration-or-find-extract-and-enrich-website-data](../clay-integrations-extract-update-and-enrich-data/builtwith-integration-or-find-extract-and-enrich-website-data/)
+{% content-ref url="builtwith/" %}
+[builtwith](builtwith/)
 {% endcontent-ref %}
 
 {% content-ref url="clay-enrichments/" %}
@@ -62,36 +62,36 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [clearbit-logo](clearbit-logo/)
 {% endcontent-ref %}
 
-{% content-ref url="customer.io/" %}
-[customer.io](customer.io/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/customer.io-integration-or-automated-data-enrichment-or-clay/" %}
+[customer.io-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/customer.io-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
 {% content-ref url="dataforseo/" %}
 [dataforseo](dataforseo/)
 {% endcontent-ref %}
 
-{% content-ref url="datagma/" %}
-[datagma](datagma/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/datagma-integration-or-automated-data-enrichment-or-clay/" %}
+[datagma-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/datagma-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="debounce/" %}
-[debounce](debounce/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/debounce-integration-or-email-verification-and-data-enrichment/" %}
+[debounce-integration-or-email-verification-and-data-enrichment](../clay-integrations-extract-update-and-enrich-data/debounce-integration-or-email-verification-and-data-enrichment/)
 {% endcontent-ref %}
 
-{% content-ref url="github/" %}
-[github](github/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/github-integration-or-automated-data-enrichment-or-clay/" %}
+[github-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/github-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
-{% content-ref url="google/" %}
-[google](google/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/" %}
+[google-integration-or-data-enrichment-and-lead-scoring](../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/)
 {% endcontent-ref %}
 
-{% content-ref url="google/google-scholar/" %}
-[google-scholar](google/google-scholar/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/google-scholar/" %}
+[google-scholar](../clay-integrations-extract-update-and-enrich-data/google-integration-or-data-enrichment-and-lead-scoring/google-scholar/)
 {% endcontent-ref %}
 
-{% content-ref url="hacker-news/" %}
-[hacker-news](hacker-news/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/hacker-news-integration-or-automated-data-enrichment-or-clay/" %}
+[hacker-news-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/hacker-news-integration-or-automated-data-enrichment-or-clay/)
 {% endcontent-ref %}
 
 {% content-ref url="hubspot/" %}
@@ -114,8 +114,8 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [linear](linear/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/linkedin-integration-or-automated-data-enrichment-or-clay/" %}
-[linkedin-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/linkedin-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="linkedin/" %}
+[linkedin](linkedin/)
 {% endcontent-ref %}
 
 {% content-ref url="mapbox/" %}
@@ -130,47 +130,47 @@ Destinations allow you to push your Clay data from to almost any other tool. We 
 [owler](owler/)
 {% endcontent-ref %}
 
-{% content-ref url="people-data-labs/" %}
-[people-data-labs](people-data-labs/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/people-data-labs-integration-or-data-enrichment-and-lead-scoring/" %}
+[people-data-labs-integration-or-data-enrichment-and-lead-scoring](../clay-integrations-extract-update-and-enrich-data/people-data-labs-integration-or-data-enrichment-and-lead-scoring/)
 {% endcontent-ref %}
 
 {% content-ref url="phantombuster/" %}
 [phantombuster](phantombuster/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/pipedrive-integration-or-automated-data-enrichment-or-clay/" %}
-[pipedrive-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/pipedrive-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="pipedrive/" %}
+[pipedrive](pipedrive/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/postgres-integration-or-data-extraction-and-enrichment/" %}
-[postgres-integration-or-data-extraction-and-enrichment](../clay-integrations-extract-update-and-enrich-data/postgres-integration-or-data-extraction-and-enrichment/)
+{% content-ref url="postgres/" %}
+[postgres](postgres/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/product-hunt-integration-or-automated-data-enrichment-or-clay/" %}
-[product-hunt-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/product-hunt-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="product-hunt/" %}
+[product-hunt](product-hunt/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/salesforce-integration-or-automated-data-enrichment-or-clay/" %}
-[salesforce-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/salesforce-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="salesforce/" %}
+[salesforce](salesforce/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/shopify-integration-or-automated-data-enrichment-or-clay/" %}
-[shopify-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/shopify-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="shopify/" %}
+[shopify](shopify/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/slack-integration-or-automated-data-enrichment-or-clay/" %}
-[slack-integration-or-automated-data-enrichment-or-clay](../clay-integrations-extract-update-and-enrich-data/slack-integration-or-automated-data-enrichment-or-clay/)
+{% content-ref url="slack/" %}
+[slack](slack/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/twitter-integration-or-extract-enrich-and-analyze-twitter-data/" %}
-[twitter-integration-or-extract-enrich-and-analyze-twitter-data](../clay-integrations-extract-update-and-enrich-data/twitter-integration-or-extract-enrich-and-analyze-twitter-data/)
+{% content-ref url="twitter/" %}
+[twitter](twitter/)
 {% endcontent-ref %}
 
-{% content-ref url="../clay-integrations-extract-update-and-enrich-data/typeform-integration-or-automated-data-collection-and-enrichment/" %}
-[typeform-integration-or-automated-data-collection-and-enrichment](../clay-integrations-extract-update-and-enrich-data/typeform-integration-or-automated-data-collection-and-enrichment/)
+{% content-ref url="typeform/" %}
+[typeform](typeform/)
 {% endcontent-ref %}
 
-{% content-ref url="zero-bounce/" %}
-[zero-bounce](zero-bounce/)
+{% content-ref url="../clay-integrations-extract-update-and-enrich-data/zerobounce-integration-or-email-validation-and-data-enrichment/" %}
+[zerobounce-integration-or-email-validation-and-data-enrichment](../clay-integrations-extract-update-and-enrich-data/zerobounce-integration-or-email-validation-and-data-enrichment/)
 {% endcontent-ref %}
 
