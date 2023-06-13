@@ -74,6 +74,7 @@
     * [Find Mobile Numbers and Social URLs](learn-more/clay-integrations-extract-update-and-enrich-data/clay-enrichments-or-automated-data-enrichment-or-clay/find-mobile-numbers-and-social-urls.md)
     * [Find Work Email](learn-more/clay-integrations-extract-update-and-enrich-data/clay-enrichments-or-automated-data-enrichment-or-clay/find-work-email.md)
   * [Formatting & Extracting Data - Clay Documentation](learn-more/clay-integrations-extract-update-and-enrich-data/formatting-and-extracting-data-clay-documentation/README.md)
+    * [Categorize Items Based on Keywords](learn-more/clay-integrations-extract-update-and-enrich-data/formatting-and-extracting-data-clay-documentation/categorize-items-based-on-keywords.md)
     * [Normalize Company Name](learn-more/clay-integrations-extract-update-and-enrich-data/formatting-and-extracting-data-clay-documentation/normalize-company-name.md)
     * [Remove Extra Whitespace from Text](learn-more/clay-integrations-extract-update-and-enrich-data/formatting-and-extracting-data-clay-documentation/remove-extra-whitespace-from-text.md)
     * [Format Date/Time](learn-more/clay-integrations-extract-update-and-enrich-data/formatting-and-extracting-data-clay-documentation/format-date-time.md)
