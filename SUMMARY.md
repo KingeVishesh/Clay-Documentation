@@ -231,6 +231,6 @@
   * [Basics of Clay tables](learn-more/fundamentals/basics-of-clay-tables.md)
   * [Formulas](learn-more/fundamentals/formulas.md)
   * [Conditional formulas](learn-more/fundamentals/conditional-formulas.md)
-  * [Run as button](learn-more/fundamentals/run-as-button.md)
+  * [Auto-Update Your Table, or Cells](learn-more/fundamentals/auto-update-your-table-or-cells.md)
   * [Clay Credit Usage Tracking](learn-more/fundamentals/clay-credit-usage-tracking.md)
 * [FAQ](learn-more/faq.md)
