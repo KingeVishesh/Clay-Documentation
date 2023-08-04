@@ -232,5 +232,4 @@
   * [Formulas](learn-more/fundamentals/formulas.md)
   * [Conditional formulas](learn-more/fundamentals/conditional-formulas.md)
   * [Auto-Update Your Table, or Cells](learn-more/fundamentals/auto-update-your-table-or-cells.md)
-  * [Clay Credit Usage Tracking](learn-more/fundamentals/clay-credit-usage-tracking.md)
 * [FAQ](learn-more/faq.md)
